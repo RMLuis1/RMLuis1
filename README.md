@@ -6,6 +6,11 @@
 -->
 
 ![RMLuis1 Github Status](https://github-readme-stats.vercel.app/api?username=RMLuis1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
+<a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMLuis1&theme=react&line_height=40&hide=css"/>
+    </a>
+
 <br />
 <h2>Languages and Tools: </h2>
 <p> 
@@ -25,6 +30,17 @@
 <a href="https://www.linkedin.com/in/ricardo-martin-luis07/" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkendIn" whidth="15%" height="50px" /></a>
 <a href="mailto:ricardoluis_07@hotmail.com" ><img src="https://avatars.githubusercontent.com/u/1497656?s=280&v=4" alt="Outlook" whidth="15%" height="50px" /></a>
 
+
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
 
 <!--
