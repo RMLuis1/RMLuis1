@@ -29,6 +29,7 @@
 <h2>Projects: </h2>
 ##FittNet  
 https://github.com/RMLuis1/PF-FittNet-G11-v1.2
+https://www.youtube.com/watch?v=WuddyUaBPEA
 <video src="https://www.youtube.com/watch?v=WuddyUaBPEA" width="640" height="480" autoplay="true" loop="true"></video>
 
 ##App Dogs
@@ -40,6 +41,7 @@ https://github.com/RMLuis1/Pi-Dogs
 ![form](/image/form.jpeg)
 
 ##Peliculas
+https://github.com/RMLuis1/Proyecto-Peliculas
 
 ![home](/image/homepel.jpeg)
 ![detalle](/image/detallpel.jpeg)
