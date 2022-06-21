@@ -39,6 +39,11 @@ https://github.com/RMLuis1/Pi-Dogs
 ![detalle](/image/detalle.jpeg)
 ![form](/image/form.jpeg)
 
+##Peliculas
+
+![home](/image/homepel.jpeg)
+![detalle](/image/detallpel.jpeg)
+![form](/image/searchpel.jpeg)
 
 
 
