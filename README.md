@@ -1,7 +1,12 @@
 ### Hi, i'm Martin :man_technologist:
 
 <h2 dir="auto" aling="center" >Full Stack Developer  </h2>
+<!--
+![RMLuis1 Github Stats](https://github-readme-stats.vercel.app/api?username=RMLuis1&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+-->
 
+![RMLuis1 Github Status](https://github-readme-stats.vercel.app/api?username=RMLuis1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+<br />
 <h2>Languages and Tools: </h2>
 <p> 
 <img src="https://camo.githubusercontent.com/ac7ca48827aef70b332b0520d213fe6f4468b2db7d37d98d4287f215a4382ba9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f77335f68746d6c352f77335f68746d6c352d617232312e737667" alt="HTML5" /> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="Css3" whidth="15%" height="60px" />
@@ -19,6 +24,9 @@
 <h2>  How to reach me: </h2>
 <a href="https://www.linkedin.com/in/ricardo-martin-luis07/" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkendIn" whidth="15%" height="50px" /></a>
 <a href="mailto:ricardoluis_07@hotmail.com" ><img src="https://avatars.githubusercontent.com/u/1497656?s=280&v=4" alt="Outlook" whidth="15%" height="50px" /></a>
+
+
+
 <!--
 **RMLuis1/RMLuis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
