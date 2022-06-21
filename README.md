@@ -26,6 +26,19 @@
  <img src="https://camo.githubusercontent.com/0ba1a9807c4ce4e06aa55f5931532925f1ba15dc0f579e4440a96d0bd4b2bcf7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73657175656c697a656a732f73657175656c697a656a732d617232312e737667" alt="Sequelize" whidth="15%" height="50px">
   
 </p>
+<h2>Projects: </h2>
+##App Dogs
+https://github.com/RMLuis1/Pi-Dogs
+
+![landin](/image/landing.jpeg)
+![home](/image/home.jpeg)
+![detalle](/image/detalle.jpeg)
+![form](/image/form.jpeg)
+
+
+
+
+
 <h2>  How to reach me: </h2>
 <a href="https://www.linkedin.com/in/ricardo-martin-luis07/" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkendIn" whidth="15%" height="50px" /></a>
 <a href="mailto:ricardoluis_07@hotmail.com" ><img src="https://avatars.githubusercontent.com/u/1497656?s=280&v=4" alt="Outlook" whidth="15%" height="50px" /></a>
