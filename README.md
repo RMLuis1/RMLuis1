@@ -27,23 +27,44 @@
   
 </p>
 <h2>Projects: </h2>
+##Portafolio
+Link: https://luis-ricardo-martin.netlify.app/
+
+![landin](/image/porttafolio.jpeg)
+
+##App e-commerce
+https://github.com/RMLuis1/Proyecto-Codo-a-Codo
+
+Link: https://netshopproyect.netlify.app
+
+![landin](/image/NetShop.jpeg)
+
+##App Countries
+https://github.com/RMLuis1/Pi-Countries
+
+Link: https://pi-countries-kaemxsc0z-rmluis1.vercel.app/
+
+![landin](/image/countrilanding.jpeg)
+
 ##FittNet  
 https://github.com/RMLuis1/PF-FittNet-G11-v1.2
+Link: https://fittnet-g11.vercel.app/
 <video src="https://www.youtube.com/watch?v=WuddyUaBPEA" width="640" height="480" autoplay="true" loop="true"></video>
+![landin](/image/fittnet.jpeg)
 
 ##App Dogs
 https://github.com/RMLuis1/Pi-Dogs
 
-![landin](/image/landing.jpeg)
-![home](/image/home.jpeg)
-![detalle](/image/detalle.jpeg)
-![form](/image/form.jpeg)
+Link: https://pi-dogs-bice.vercel.app/
+
+![landin](/image/doglanding.jpeg)
 
 ##Peliculas
 
-![home](/image/homepel.jpeg)
-![detalle](/image/detallpel.jpeg)
-![form](/image/searchpel.jpeg)
+Link: https://appmoviesproyect.netlify.app/
+
+![home](/image/movie.jpeg)
+
 
 
 
