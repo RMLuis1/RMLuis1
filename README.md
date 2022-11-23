@@ -30,7 +30,7 @@
 ##Portafolio
 Link: https://luis-ricardo-martin.netlify.app/
 
-![landin](/image/porttafolio.jpeg)
+![landin](/image/portafolio.jpeg)
 
 ##App e-commerce
 https://github.com/RMLuis1/Proyecto-Codo-a-Codo
