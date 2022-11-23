@@ -1,4 +1,4 @@
-### Hi, i'm Martin :man_technologist:
+### Hi, i'm Ricardo :man_technologist:
 
 <h2 dir="auto" aling="center" >Full Stack Developer  </h2>
 <!--
@@ -48,7 +48,6 @@ Link: https://pi-countries-kaemxsc0z-rmluis1.vercel.app/
 
 ##FittNet  
 https://github.com/RMLuis1/PF-FittNet-G11-v1.2
-Link: https://fittnet-g11.vercel.app/
 <video src="https://www.youtube.com/watch?v=WuddyUaBPEA" width="640" height="480" autoplay="true" loop="true"></video>
 ![landin](/image/fittnet.jpeg)
 
@@ -60,6 +59,7 @@ Link: https://pi-dogs-bice.vercel.app/
 ![landin](/image/doglanding.jpeg)
 
 ##Peliculas
+https://github.com/RMLuis1/Proyecto-Peliculas
 
 Link: https://appmoviesproyect.netlify.app/
 
