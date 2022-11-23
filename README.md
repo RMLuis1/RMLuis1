@@ -8,7 +8,7 @@
 ![RMLuis1 Github Status](https://github-readme-stats.vercel.app/api?username=RMLuis1&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMLuis1&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMLuis1&theme=react&line_height=80"/>
     </a>
 
 <br />
