@@ -28,9 +28,9 @@
 </p>
 <h2>Projects: </h2>
 ##Portafolio
-Link: https://luis-ricardo-martin.netlify.app/
+Link: https://rmluis.vercel.app/
 
-![landin](/image/portafolio.jpeg)
+![landin]('')
 
 ##App e-commerce
 https://github.com/RMLuis1/Proyecto-Codo-a-Codo
